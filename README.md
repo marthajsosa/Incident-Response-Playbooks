@@ -1,7 +1,7 @@
 ## 🚧 Work in Progress
 # Incident Response Playbooks
 
-Welcome to my collection of **Incident Response (IR) Playbooks**. These resources are designed to guide analysts, responders, and security teams through structured, tactical response processes for a variety of cybersecurity incidents. Each playbook outlines detection methods, investigation steps, containment strategies, and recovery procedures—aligned with MITRE ATT&CK techniques and grounded in real-world response workflows.
+Welcome to my collection of **Incident Response (IR) Playbooks**. These resources are designed to guide analysts, responders, and security teams through structured, tactical response processes for a variety of cybersecurity incidents. Each playbook outlines detection methods, investigation steps, containment strategies, and recovery procedures—grounded in real-world response workflows.
 
 ## About These Playbooks
 
