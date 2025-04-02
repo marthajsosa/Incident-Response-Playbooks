@@ -11,7 +11,7 @@ This repository is a living, evolving set of playbooks based on best practices, 
 
 Playbooks will be added for a wide range of scenarios, including but not limited to:
 
-- **Malware Infections**
+- [Malware Infections](https://github.com/marthajsosa/Incident-Response-Playbooks/tree/main/IR%20Malware)
 - **Phishing Attacks** (coming soon)
 - **Data Loss or Exfiltration** (coming soon)
 - **Ransomware Events** (coming soon)
