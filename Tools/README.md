@@ -16,3 +16,15 @@
 - [Information Security Assessment RFP](https://zeltser.com/media/docs/security-assessment-rfp-cheat-sheet.doc)
 - [How to Suck at Information Security](https://zeltser.com/media/docs/suck-at-security-cheat-sheet.docx)
 - [Report Template for Threat Intelligence and Incident Response](https://zeltser.com/media/docs/cyber-threat-intel-and-ir-report-template.dotx)
+
+OSINT Tools
+
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+- [PulseDive](https://pulsedive.com/)
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)
+- [Talos Intelligence](https://talosintelligence.com/reputation_center)
+- [Domain Dossier](https://centralops.net/co/DomainDossier.aspx?)
+- [URLScan](https://urlscan.io/)
+- [AlienVault](https://otx.alienvault.com/)
+- [MxToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
+- [Google Email Header Analyzer](https://toolbox.googleapps.com/apps/messageheader/)
