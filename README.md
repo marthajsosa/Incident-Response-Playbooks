@@ -1,13 +1,13 @@
 ## 🚧 Work in Progress
 # Incident Response Playbooks
 
-Welcome to my collection of **Incident Response (IR) Playbooks**. These resources are designed to guide analysts, responders, and security teams through structured, tactical response processes for a variety of cybersecurity incidents. Each playbook outlines detection methods, investigation steps, containment strategies, and recovery procedures—grounded in real-world response workflows.
+Welcome to my collection of **Incident Response (IR) Playbooks**. These resources are designed to guide analysts, responders, and security teams through structured, tactical response processes for a variety of commonly-experienced incidents. Each playbook outlines detection methods, investigation steps, containment strategies, and recovery procedures—grounded in real-world response workflows.
 
 ## About These Playbooks
 
 This repository is a living, evolving set of playbooks based on best practices, threat intelligence, created from my academic and hands-on experience in security operations and incident response. Each playbook is written in a clear, concise, and procedural style to support quick decision-making and consistent handoff between analysts.
 
-## 🔍 Incident Types Covered
+## Incident Types Covered
 
 Playbooks will be added for a wide range of scenarios, including but not limited to:
 
@@ -21,7 +21,7 @@ Playbooks will be added for a wide range of scenarios, including but not limited
 - **Unusual Administrative Behavior** (coming soon)
 - **Suspicious File or Process Execution** (coming soon)
 
-## 🧭 Playbook Structure
+## Playbook Structure
 
 Each playbook follows a consistent format as suggested by NIST 800-61 to support repeatable workflows:
 
@@ -32,7 +32,7 @@ Each playbook follows a consistent format as suggested by NIST 800-61 to support
 - **Recovery**
 - **Post-Incident Activity**
 
-## 🎯 Goals
+## Goals
 
 - Standardize and streamline the incident response process  
 - Provide actionable steps for Tier 1 through Tier 3 analysts  
@@ -40,7 +40,7 @@ Each playbook follows a consistent format as suggested by NIST 800-61 to support
 - Support handoffs between detection engineering, SOC, and IR teams  
 - Promote knowledge sharing and upskilling within the team
 
-## ⚙️ Tools & Frameworks Used
+## Tools & Frameworks Used
 
 These playbooks may reference or include commands and workflows for:
 
