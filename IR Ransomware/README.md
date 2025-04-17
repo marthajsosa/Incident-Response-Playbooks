@@ -2,7 +2,7 @@
 # Ransomware Incident Response Playbook
 
 ## Scope
-_Describe the purpose and scope of this playbook. What kinds of ransomware events does it cover?_
+_Describe the purpose and scope of this playbook._
 
 ---
 
